@@ -1,0 +1,4 @@
+{
+  "alias-resolver.file": "final/index.html",
+  "alias-resolver.type": "webpack"
+}
